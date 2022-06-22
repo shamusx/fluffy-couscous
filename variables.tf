@@ -1,13 +1,3 @@
-variable "username" {
-  default     = ""
-  description = "username"
-}
-
-variable "password" {
-  default     = ""
-  description = "password"
-}
-
 variable "num_nodes" {
   default     = 2
   description = "number of nodes"
